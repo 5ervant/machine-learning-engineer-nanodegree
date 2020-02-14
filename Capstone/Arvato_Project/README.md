@@ -28,4 +28,4 @@ You can import all of the required libraries using the following code:
 
 In case there's still a missing library which is not yet installed, considered checking the *"Arvato Project Workbook.ipynb"* notebook.
 
-All the codes of the project are written on the *"Arvato Project Workbook.ipynb"* notebook and mentioned on the *"Report.pdf"* document. The *"Arvato Project Workbook-Copy1.ipynb"* is just a copy the original workbook with just a little modification for testing purposes.
+All the codes of the project are written on the *"Arvato Project Workbook.ipynb"* notebook and mentioned on the *"Report.pdf"* document. The *"Arvato Project Workbook-Copy1.ipynb"* is just a copy of the original workbook with just a little modification for testing purposes.
